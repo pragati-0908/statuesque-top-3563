@@ -1,0 +1,25 @@
+.bar{
+    background-color: navy;
+    height: 80px;
+    width: 90%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+.bar ul{
+   list-style: none;
+   display: flex; 
+}
+.bar ul li{
+    padding: 10px 10px;
+}
+.bar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+.img{
+    width: 100%;
+}
